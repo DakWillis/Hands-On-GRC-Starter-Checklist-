@@ -1,0 +1,4 @@
+Asset_Name,Asset_Type,Owner_Role,Data_Type,Criticality,Notes
+Google Workspace,SaaS,IT,PII,High,
+Employee Laptops,Endpoint,IT,Internal,Medium,
+Shared Drive,Cloud Storage,Operations,Confidential,High,
