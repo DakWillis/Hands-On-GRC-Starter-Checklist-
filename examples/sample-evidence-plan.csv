@@ -1,0 +1,9 @@
+Control_ID,Evidence_Type(Screenshot/Log/Policy/Interview),Evidence_Example,Where_Evidence_Lives,Who_Provides_It,Notes
+A.5.15,Screenshot,MFA enforcement settings screenshot (redacted),Admin console export/screenshot,IT Admin,Redact org names and user emails for public use
+A.5.18,Log,Quarterly access review log entry (sanitized),Access review log (CSV/Sheet),Drive Owner/IT,Use role-based identifiers (Owner A)
+A.5.18,Policy,Access review & accountability policy,Policy repo/docs,IT,Use neutral language and clear defaults
+A.5.9,Log,Inventory register + audit reconciliation results,Inventory spreadsheet + audit report,IT,Publish only synthetic inventory data
+A.5.15,Policy,Portable storage & data movement policy,Policy repo/docs,IT,Include encryption and logging requirements
+A.5.15,Interview,Owner confirmation of shared drive access list,Meeting notes (sanitized),Drive Owner,Record outcomes and decisions
+A.5.18,Screenshot,Admin role assignments screenshot (redacted),Admin console,IT Admin,Show limited admins; redact identities
+A.5.15,Log,External sharing audit summary (sanitized),Drive sharing audit notes,IT,Use counts not identities (e.g., "12 public links found")
