@@ -1,0 +1,15 @@
+Asset_Name,Asset_Type,Owner_Role,Data_Type,Criticality,Notes
+Google Workspace,SaaS,IT,PII/Confidential,High,Primary identity/email platform
+Google Admin Console,SaaS,IT,Confidential,High,Admin access must be limited and logged
+Shared Drives (Operations),Cloud Storage,Operations,Confidential,High,Used for event ops and internal docs
+Shared Drives (Finance),Cloud Storage,Finance,Financial/Confidential,High,Contains budgets and invoices
+Shared Drives (Programs),Cloud Storage,Programs,PII,High,Contains participant/student data
+Staff Laptops,Endpoint,IT,Internal/PII,Medium,Used on-site and during events
+Event Loaner Laptops,Endpoint,IT,Internal,High,Higher theft/loss risk due to travel
+Printer/Scanner,Peripheral,Operations,Internal,Low,Shared office device
+Wi-Fi Network,Network,IT,Internal,High,Supports all operations; weak passwords increase risk
+Password Manager (if used),SaaS,IT,Confidential,High,Strongly recommended; not always adopted
+File Sharing Links,Process,All Teams,Confidential,High,Public link sharing can expose sensitive docs
+Portable USB Drives,Portable Storage,IT,Confidential,High,Not allowed unless encrypted + logged
+External SSD (approved),Portable Storage,IT,Confidential,High,Must be encrypted; track custody
+Google Groups,Access Mechanism,IT,Internal/Confidential,High,Used for role-based access; needs ownership
