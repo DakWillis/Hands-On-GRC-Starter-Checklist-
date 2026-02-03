@@ -1,0 +1,11 @@
+Risk_ID,Framework,Control_ID,Control_Name,Control_Summary,Why_It_Applies
+R-001,ISO27001,A.5.15,Access control,Rules to control access to information and assets,Weak MFA/shared accounts create unauthorized access risk
+R-001,ISO27001,A.5.18,Access rights,Provisioning and review of access rights,Ensures accounts and privileges are assigned and reviewed appropriately
+R-002,ISO27001,A.5.18,Access rights,Periodic review and adjustment of rights,Permission creep requires review cadence and owner validation
+R-003,ISO27001,A.5.15,Access control,Control who can access information,Link sharing settings impact external access to data
+R-004,ISO27001,A.5.9,Information and asset inventory,Maintain inventory for accountability,Loaner devices must be tracked with custody and lifecycle controls
+R-004,ISO27001,A.5.15,Access control,Restrict access on devices,Encryption/access controls reduce exposure if device is lost
+R-005,ISO27001,A.5.15,Access control,Control data access and use,USB usage rules prevent unauthorized/unencrypted data movement
+R-006,ISO27001,A.5.18,Access rights,Limit and review privileged access,Admin privileges require tight governance and periodic review
+R-007,ISO27001,A.5.15,Access control,Network access controls,Wi-Fi access is a form of access control and should be managed
+R-008,ISO27001,A.5.9,Information and asset inventory,Inventory accuracy and ownership,Accurate inventories support response, accountability, and audits
