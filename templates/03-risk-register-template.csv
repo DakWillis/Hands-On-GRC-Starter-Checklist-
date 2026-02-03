@@ -1,0 +1,2 @@
+Risk_ID,Risk_Description,Asset,Likelihood(1-5),Impact(1-5),Risk_Level(L/M/H),Mitigation,Owner_Role,Status
+R-001,Unauthorized access due to shared accounts,Google Workspace,3,4,High,Enforce MFA + unique accounts,IT,Open
