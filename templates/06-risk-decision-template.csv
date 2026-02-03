@@ -1,0 +1,2 @@
+Risk_ID,Decision(Accept/Mitigate/Transfer/Avoid),Decision_Statement,Residual_Risk,Decision_Owner_Role,Review_Date
+R-001,Mitigate,Controls implemented to reduce exposure,Medium,IT,YYYY-MM-DD
