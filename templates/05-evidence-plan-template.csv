@@ -1,0 +1,2 @@
+Control_ID,Evidence_Type(Screenshot/Log/Policy/Interview),Evidence_Example,Where_Evidence_Lives,Who_Provides_It,Notes
+A.5.xx,Screenshot,MFA settings enabled screenshot,Admin Console,IT Admin,Redact org identifiers if public
