@@ -1,0 +1,9 @@
+Risk_ID,Risk_Description,Asset,Likelihood(1-5),Impact(1-5),Risk_Level(L/M/H),Mitigation,Owner_Role,Status
+R-001,Unauthorized access due to shared accounts or weak MFA adoption,Google Workspace,3,4,H,Enforce MFA for all users and remove shared accounts,IT,Open
+R-002,Excessive shared drive permissions (permission creep) without periodic reviews,Shared Drives,4,4,H,Quarterly access reviews + owner assignment per drive,IT/Operations,Open
+R-003,Sensitive files exposed via overly permissive link sharing (public links),File Sharing Links,3,4,H,Restrict external sharing; train staff; audit sharing settings,IT,Open
+R-004,Loss or theft of event loaner laptops leading to data exposure,Event Loaner Laptops,3,5,H,Disk encryption + device tracking + sign-out log,IT,Open
+R-005,Use of unencrypted personal USB drives for org data,Portable USB Drives,3,4,H,Ban unapproved drives; provide encrypted drives + logging,IT,Open
+R-006,Admin privileges too broad (too many admins),Google Admin Console,2,5,H,Limit admin roles; implement role-based admin; review quarterly,IT,Open
+R-007,Weak Wi-Fi security allowing unauthorized network access,Wi-Fi Network,3,3,M,Use strong WPA2/WPA3 password + rotate; guest network separation,IT,Open
+R-008,Missing/incorrect asset inventory reduces accountability and incident response,Staff Laptops,3,3,M,Run quarterly inventory audit; custody owners; discrepancy tracking,IT,Open
