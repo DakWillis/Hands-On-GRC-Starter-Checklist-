@@ -1,0 +1,9 @@
+Risk_ID,Decision(Accept/Mitigate/Transfer/Avoid),Decision_Statement,Residual_Risk,Decision_Owner_Role,Review_Date
+R-001,Mitigate,Require MFA for all users and eliminate shared accounts to reduce unauthorized access risk,Medium,IT,2026-04-01
+R-002,Mitigate,Assign owners to each Shared Drive and execute quarterly access reviews to reduce permission creep,Medium,IT/Operations,2026-04-01
+R-003,Mitigate,Restrict external link sharing defaults and audit existing links to reduce accidental exposure,Medium,IT,2026-03-15
+R-004,Mitigate,Encrypt loaner laptops and implement sign-out/custody logging to reduce impact of loss/theft,Medium,IT,2026-03-15
+R-005,Avoid,Prohibit unapproved USB drives and provide encrypted alternatives to eliminate untracked data movement,Low,IT,2026-03-01
+R-006,Mitigate,Reduce admin roles to minimum and review privileges quarterly to reduce privileged access risk,Medium,IT,2026-04-01
+R-007,Mitigate,Strengthen Wi-Fi credentials and segment guest access to reduce unauthorized network entry,Low/Medium,IT,2026-03-01
+R-008,Mitigate,Run quarterly inventory audits and reconcile discrepancies to improve accountability and response readiness,Low/Medium,IT,2026-04-01
