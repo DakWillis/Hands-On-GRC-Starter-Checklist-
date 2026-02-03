@@ -1,30 +1,23 @@
 # Quickstart (v1)
 
-## Step 0 — Pick your environment
-Use a fictional or familiar org (keep it safe and publishable):
-- Small nonprofit (20–50 users)
-- SaaS startup
-- College IT department
-- Healthcare clinic (non-clinical systems)
+## 1) Pick an environment (30–45 min)
+Use a fictional or familiar org that is safe to publish.
 
-## Step 1 — Copy templates
-Copy everything in `/templates` into a folder:
+## 2) Copy templates
+Copy everything in `/templates` into:
 `my-submission/`
 
-## Step 2 — Fill in order
-1) Environment profile
-2) Asset inventory
-3) Risk register
-4) Risk → control mapping
-5) Evidence plan
-6) Risk decisions
-7) Reflection (optional)
+## 3) Fill in order
+1. Environment profile
+2. Asset inventory (10–15)
+3. Risk register (5–8)
+4. Risk → control mapping (1–2 per risk)
+5. Evidence plan
+6. Risk decisions
+7. Reflection (optional)
 
-## Step 3 — Review for clarity
-If a stranger can’t understand your environment or risks, simplify language.
+## 4) Review
+Make sure a stranger can understand your environment and risks in under 5 minutes.
 
-## Step 4 — Publish (optional)
-Publish your completed work in a separate repo:
-`hands-on-grc-case-<environment-name>`
-
-This keeps your template repo clean and reusable.
+## 5) Publish safely
+Publish your completed artifacts in a separate repo.
